@@ -1,0 +1,32 @@
+From which file do you want to load this information? cars.txt
+Data loaded.
+
+Car 1
+	Make: Toyota
+	Model: Camry
+	Year: 1985
+	License: 622-VRX
+
+Car 2
+	Make: Chevrolet
+	Model: Chevette
+	Year: 1980
+	License: J43-SMB
+
+Car 3
+	Make: Honda
+	Model: Civic
+	Year: 1993
+	License: 883-RS9
+
+Car 4
+	Make: Ford
+	Model: Mustang
+	Year: 1966
+	License: AZUCAR
+
+Car 5
+	Make: Dodge
+	Model: Neon
+	Year: 1996
+	License: G74-LLC
