@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class Sample1 {
+public class CarSorting {
 
     //defining the main method
     public static void main(String[] args) {
